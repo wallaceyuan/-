@@ -35,3 +35,14 @@ const studentInGroups = students.reduce((groups,student) =>{
 },{})
 
 console.log(studentInGroups);
+
+
+const studentWithGroupInfo = students.map(student=>{
+    const group = groups.find( group => g.id === student.group_id)
+    return {
+        ...student,
+        groupName:group.name
+    }
+})
+
+console.log(studentWithGroupInfo);

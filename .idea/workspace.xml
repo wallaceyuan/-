@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af9dfb6a-9a22-42d9-891e-1ffeb65cb9b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tree/10.选择器.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tree/7.树的查找.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tree/8.树的路径.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tree/9.根据路径反查节点.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/算法.iml" afterPath="$PROJECT_DIR$/.idea/算法.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tree/1.Tree.js" afterPath="$PROJECT_DIR$/Tree/1.Tree.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tree/2.树的先序遍历.js" afterPath="$PROJECT_DIR$/Tree/2.树的先序遍历.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tree/3.树的后序遍历.js" afterPath="$PROJECT_DIR$/Tree/3.树的后序遍历.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tree/4.树的中序遍历.js" afterPath="$PROJECT_DIR$/Tree/4.树的中序遍历.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tree/6.树的遍历(Generator).js" afterPath="$PROJECT_DIR$/Tree/6.树的遍历(Generator).js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tree/10.选择器.js" afterPath="$PROJECT_DIR$/Tree/10.选择器.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tree/8.树的路径.js" afterPath="$PROJECT_DIR$/Tree/8.树的路径.js" />
     </list>
     <ignored path="-.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +27,8 @@
       <file leaf-file-name="7.树的查找.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/7.树的查找.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="91">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
@@ -48,18 +39,8 @@
       <file leaf-file-name="8.树的路径.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/8.树的路径.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="9.根据路径反查节点.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/9.根据路径反查节点.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="34" />
+            <state relative-caret-position="286">
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -68,10 +49,24 @@
       <file leaf-file-name="10.选择器.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tree/10.选择器.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="170">
+              <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
+                <element signature="n#!!block;n#select#0" expanded="false" />
+                <element signature="n#!!block;n#select_v2#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.树的遍历(回调).js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/5.树的遍历(回调).js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <folding>
+                <element signature="n#!!doc;n#tree_transverse_m#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -80,21 +75,9 @@
       <file leaf-file-name="6.树的遍历(Generator).js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/6.树的遍历(Generator).js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="19">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2.树的先序遍历.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/2.树的先序遍历.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#44#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -126,8 +109,8 @@
         <option value="$PROJECT_DIR$/Tree/1.Tree.js" />
         <option value="$PROJECT_DIR$/Tree/6.树的遍历(Generator).js" />
         <option value="$PROJECT_DIR$/Tree/7.树的查找.js" />
-        <option value="$PROJECT_DIR$/Tree/8.树的路径.js" />
         <option value="$PROJECT_DIR$/Tree/9.根据路径反查节点.js" />
+        <option value="$PROJECT_DIR$/Tree/8.树的路径.js" />
         <option value="$PROJECT_DIR$/Tree/10.选择器.js" />
       </list>
     </option>
@@ -139,10 +122,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1571" />
-    <option name="y" value="90" />
-    <option name="width" value="1382" />
-    <option name="height" value="955" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="708" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -170,6 +152,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -198,27 +181,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="前端数据运算" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="算法" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="算法" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Tree" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,10 +199,7 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager" selected="Node.js.9.根据路径反查节点.js">
-    <configuration default="false" name="4.树的中序遍历.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="4.树的中序遍历.js" working-dir="$PROJECT_DIR$/Tree">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.10.选择器.js">
     <configuration default="false" name="6.树的遍历(Generator).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="6.树的遍历(Generator).js" working-dir="$PROJECT_DIR$/Tree">
       <method />
     </configuration>
@@ -245,6 +210,9 @@
       <method />
     </configuration>
     <configuration default="false" name="9.根据路径反查节点.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="9.根据路径反查节点.js" working-dir="$PROJECT_DIR$/Tree">
+      <method />
+    </configuration>
+    <configuration default="false" name="10.选择器.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10.选择器.js" working-dir="$PROJECT_DIR$/Tree">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -301,19 +269,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.4.树的中序遍历.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.6.树的遍历(Generator).js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.7.树的查找.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.8.树的路径.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.9.根据路径反查节点.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.6.树的遍历(Generator).js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.7.树的查找.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.8.树的路径.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.9.根据路径反查节点.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.10.选择器.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.9.根据路径反查节点.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.10.选择器.js" />
         <item index="1" class="java.lang.String" itemvalue="Node.js.8.树的路径.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.7.树的查找.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.6.树的遍历(Generator).js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.4.树的中序遍历.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.9.根据路径反查节点.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.7.树的查找.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.6.树的遍历(Generator).js" />
       </list>
     </recent_temporary>
   </component>
@@ -334,6 +302,7 @@
       <workItem from="1537760572756" duration="2415000" />
       <workItem from="1537790658196" duration="2497000" />
       <workItem from="1537836055236" duration="5124000" />
+      <workItem from="1537859320170" duration="5085000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1537760685669</created>
@@ -346,17 +315,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10153000" />
+    <option name="totallyTimeSpent" value="15238000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1571" y="90" width="1382" height="955" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="708" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1719324" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35762712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22939068" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -390,13 +359,36 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Tree/7.树的查找.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/8.树的路径.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/9.根据路径反查节点.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tree/3.树的后序遍历.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -404,9 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="10" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -505,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -520,6 +508,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/4.树的中序遍历.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="348" column="0" selection-start-line="348" selection-start-column="0" selection-end-line="348" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/1.Tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/9.根据路径反查节点.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/2.树的先序遍历.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#44#0" expanded="false" />
           </folding>
@@ -536,84 +560,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/4.树的中序遍历.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="348" column="0" selection-start-line="348" selection-start-column="0" selection-end-line="348" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/1.Tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#Tree#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/2.树的先序遍历.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tree/6.树的遍历(Generator).js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/8.树的路径.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/9.根据路径反查节点.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="34" />
+        <state relative-caret-position="19">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tree/7.树的查找.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        <state relative-caret-position="91">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/8.树的路径.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tree/10.选择器.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="170">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
+            <element signature="n#!!block;n#select#0" expanded="false" />
+            <element signature="n#!!block;n#select_v2#0" expanded="false" />
           </folding>
         </state>
       </provider>

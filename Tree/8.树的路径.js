@@ -14,4 +14,13 @@ function* tree_transverse(tree,path = []) {
     }
 }
 
-console.log([...tree_transverse(tree)]);
+/*[ { tree: Tree { v: 10, children: [Array] }, path: [] },
+{ tree: Tree { v: 5, children: null }, path: [ 0 ] },
+{ tree: Tree { v: 3, children: [Array] }, path: [ 1 ] },
+{ tree: Tree { v: 7, children: null }, path: [ 1, 0 ] },
+{ tree: Tree { v: 11, children: null }, path: [ 1, 1 ] },
+{ tree: Tree { v: 2, children: null }, path: [ 2 ] } ]*/
+
+//console.log([...tree_transverse(tree)]);
+
+module.exports = tree_transverse

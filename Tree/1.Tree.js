@@ -14,4 +14,4 @@ const tree = new Tree(10, [
     new Tree(2)
 ])
 
-console.log(tree);
+module.exports = tree

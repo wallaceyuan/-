@@ -1,6 +1,8 @@
 /**
  * Created by yuanyuan on 2018/9/24.
  */
+const tree = require('./1.Tree')
+
 function tree_transverse_m(tree,ord = 0) {
     let transversed = false
     if(!tree.children){

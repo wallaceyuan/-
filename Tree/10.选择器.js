@@ -38,21 +38,19 @@ function parse_selection_exp(expr) {
                 }
             }
         })
-
 }
 
-
 //prediction
-var tree_node = select(tree, [
-    {child: 1},
-    {op: (x)=>x.v > 5}]
-)
+function select_easy(tree,expr) {
+    return select(tree, parse_selection_exp(expr))//[{child: 1},{op: (x)=>x.v > 5}]
+}
+
+var tree_node = select_easy(tree,'1 [>5]')
 
 var tree_node_v2 = select_v2(tree, [
     {child: 1},
     {op: (x)=>x.v > 5}]
 )
-
 
 console.log(tree_node);
 
